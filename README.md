@@ -11,7 +11,8 @@ This project implements three search algorithms to solve the Traveling Salesman 
  ## Setup
  1. Clone the repository: Clone this Repository to your local machine using the following :
  2. Navigate to the directory containing the Java Files:
- 3. Run the program in Main.java to execute the TSP solver:
- 4. Choose 1 or 2 on the following menu.
+ 3. Go to Main.java, then change filname location to the location where you saved the java files.
+ 4. Run the program in Main.java to execute the TSP solver:
+ 5. Choose 1 or 2 on the following menu.
    
 
